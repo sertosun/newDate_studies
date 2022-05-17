@@ -10,6 +10,7 @@
   display: grid;
   place-items: center;
   align-content: center;
+  background-color: rgb(161, 150, 150);
 }
 
 .box {
@@ -26,5 +27,12 @@
 }
 
 #actTime {
-  color: white;
+  color: rgb(170, 158, 158);
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+#subTit {
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
